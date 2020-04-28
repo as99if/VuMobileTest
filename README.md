@@ -4,6 +4,7 @@ Fluuter application
 used MVVM architecture with Provider pattern
 
 api call - vumobile/lib/core/services/apiProvider.dart
+model - vumobile/lib/core/models/dataModel.dart
 view model - vumobile/lib/views/home/home_view_model.dart
 view - vumobile/lib/views/home/home_view.dart
 
