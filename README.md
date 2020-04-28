@@ -16,4 +16,4 @@ view - vumobile/lib/views/home/home_view.dart
 
 generated apk (debug) file - app.apk
 
-built and simulated in VS Code (android and iOS)
+built and simulated - android and iOS
